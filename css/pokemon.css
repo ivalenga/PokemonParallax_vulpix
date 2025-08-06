@@ -8,7 +8,7 @@ html, body{
     position: relative; /*define posicionamento relativo*/
     background-image: url("../img/vulpix1.avif");
     height: 100%;
-    opacity: 0.5;
+    
     background-attachment: fixed; /*deixa a imagem fixa*/
     background-position: center; /*centraliza a imagem*/
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@ html, body{
     position: relative; /*define posicionamento relativo*/
     background-image: url("../img/vulpix1.1.avif");
     height: 100%;
-    opacity: 0.5;
+    
     background-attachment: fixed; /*deixa a imagem fixa*/
     background-position: center; /*centraliza a imagem*/
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ html, body{
     position: relative; /*define posicionamento relativo*/
     background-image: url("../img/alolan_vulpix1.avif");
     height: 100%;
-    opacity: 0.5;
+   
     background-attachment: fixed; /*deixa a imagem fixa*/
     background-position: center; /*centraliza a imagem*/
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@ html, body{
     position: relative; /*define posicionamento relativo*/
     background-image: url("../img/alolan_vulpix1.1.avif");
     height: 100%;
-    opacity: 0.5;
+   
     background-attachment: fixed; /*deixa a imagem fixa*/
     background-position: center; /*centraliza a imagem*/
     background-repeat: no-repeat;
@@ -131,3 +131,4 @@ html, body{
     text-align: center;
     padding: 50px 80px;
 }
+
